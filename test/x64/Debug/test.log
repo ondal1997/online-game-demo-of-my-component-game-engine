@@ -1,0 +1,4 @@
+﻿  소스1.cpp
+C:\Users\dongh\source\repos\컴포넌트 엔진\test\소스1.cpp(11,21): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\test\소스1.cpp(12,21): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  test.vcxproj -> C:\Users\dongh\source\repos\컴포넌트 엔진\x64\Debug\test.exe

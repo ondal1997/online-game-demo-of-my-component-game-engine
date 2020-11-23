@@ -1,0 +1,412 @@
+﻿  참고용.cpp
+  게임.cpp
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(3,13): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(5,1): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(6,2): error C2065: 'TARGETSYSTEM': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(6,15): error C2059: 구문 오류: ';'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(8,14): error C2065: 'ENTITY': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(8,20): error C2182: 'attack': 'void' 형식을 잘못 사용했습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(9,2): error C2448: 'attack': 함수 스타일 이니셜라이저가 함수 정의처럼 나타납니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(10,3): error C2065: '타겟시스템': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(10,19): error C2146: 구문 오류: ';'이(가) '순회하면서' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(10,19): error C2065: '순회하면서': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(11,3): error C2065: '충돌이면': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(12,3): error C2065: '대상놈의': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(12,16): error C2146: 구문 오류: ';'이(가) '델타체력까고' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(12,16): error C2065: '델타체력까고': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(13,3): error C2065: '대상놈의': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(13,16): error C2146: 구문 오류: ';'이(가) '속도바꾸고' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(13,16): error C2065: '속도바꾸고': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(14,3): error C2065: '피ㅈㄴ생성하고': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(15,3): error C2065: '파티클': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(15,13): error C2146: 구문 오류: ';'이(가) '생성하고' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(15,13): error C2065: '생성하고': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(18,13): error C2065: 'ENTITY': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(18,19): error C2182: 'input': 'void' 형식을 잘못 사용했습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(19,2): error C2448: 'input': 함수 스타일 이니셜라이저가 함수 정의처럼 나타납니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(20,3): error C2065: '이동관련': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(20,16): error C2146: 구문 오류: ';'이(가) '변수수정' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(20,16): error C2065: '변수수정': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(21,3): error C2065: '점프관련': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(21,16): error C2146: 구문 오류: ';'이(가) '변수수정' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(21,16): error C2065: '변수수정': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(25,3): error C2065: '공격관련': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(25,17): error C2065: 'nextState': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(25,29): error C2065: '공격': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(25,37): error C2065: '조건존재': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(26,3): error C2065: '스킬관련': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(26,17): error C2065: 'nextState': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(26,29): error C2065: '스킬': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(26,37): error C2065: '조건존재': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(30,3): error C2065: '충전다운': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(31,7): error C2065: '조건': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(33,4): error C2065: 'nextState': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(33,16): error C2065: '충전0_0': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(34,4): error C2065: '충전키': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(37,3): error C2065: '충전업': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(38,3): error C2065: '충전키': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(41,17): error C2065: 'ENTITY': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(41,23): error C2182: 'dealInput': 'void' 형식을 잘못 사용했습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(42,2): error C2448: 'dealInput': 함수 스타일 이니셜라이저가 함수 정의처럼 나타납니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(43,3): error C2065: '점프관련': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(44,11): error C2065: 'nextState': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(45,3): error C2050: switch 식이 정수 계열이 아닙니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(46,8): error C2065: '대기': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(46,8): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(46,8): message : 상수가 아닌 식 또는 부분식이 있습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(47,8): error C2065: '이동': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(47,8): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(47,8): message : 상수가 아닌 식 또는 부분식이 있습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(48,4): error C2065: 'nextState': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(48,16): error C2065: '공중': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(49,4): error C2065: '속도수정': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(53,3): error C2065: '이동0': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(54,11): error C2065: 'nextState': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(55,3): error C2050: switch 식이 정수 계열이 아닙니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(56,8): error C2065: '대기': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(56,8): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(56,8): message : 상수가 아닌 식 또는 부분식이 있습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(57,4): error C2065: 'nextState': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(57,16): error C2065: '이동': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(59,8): error C2065: '이동': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(59,8): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(59,8): message : 상수가 아닌 식 또는 부분식이 있습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(63,3): error C2065: '이동1': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(64,11): error C2065: 'nextState': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(65,3): error C2050: switch 식이 정수 계열이 아닙니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(66,8): error C2065: '이동': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(66,8): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(66,8): message : 상수가 아닌 식 또는 부분식이 있습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(67,4): error C2065: 'nextState': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(67,16): error C2065: '대기': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(72,14): error C2065: 'ENTITY': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(72,20): error C2182: 'action': 'void' 형식을 잘못 사용했습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(73,2): error C2448: 'action': 함수 스타일 이니셜라이저가 함수 정의처럼 나타납니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(74,14): error C2065: 'ENTITY': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(74,3): error C3861: 'deallInput': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(76,3): error C2065: 'state': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(76,11): error C2065: 'nextState': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(78,11): error C2065: '상태': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(79,3): error C2050: switch 식이 정수 계열이 아닙니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(80,8): error C2065: '대기': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(80,8): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(80,8): message : 상수가 아닌 식 또는 부분식이 있습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(81,4): error C2065: '재생': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(83,8): error C2065: '이동': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(83,8): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(83,8): message : 상수가 아닌 식 또는 부분식이 있습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(84,8): error C2065: '공중': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(84,8): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(84,8): message : 상수가 아닌 식 또는 부분식이 있습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(85,4): error C2065: '재생': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(86,4): error C2065: '이동키에': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(86,17): error C2146: 구문 오류: ';'이(가) '따른' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(86,17): error C2065: '따른': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(86,24): error C2146: 구문 오류: ';'이(가) '이동' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(86,24): error C2065: '이동': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(88,8): error C2065: '사망': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(88,8): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(88,8): message : 상수가 아닌 식 또는 부분식이 있습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(89,4): error C2065: '땅일때까지': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(89,20): error C2146: 구문 오류: ';'이(가) '재생을' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(89,20): error C2065: '재생을': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(89,30): error C2146: 구문 오류: ';'이(가) '지연한다' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(89,30): error C2065: '지연한다': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\게임.cpp(89,42): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
+  다듬기.cpp
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(4,2): error C2065: '월드': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(4,9): error C2146: 구문 오류: ';'이(가) '생성' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(4,9): error C2065: '생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(7,2): error C2065: '탈출조건변수': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(33,2): error C3861: '렌더링': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(33,14): error C2143: 구문 오류: ';'이(가) ':' 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(33,14): error C2059: 구문 오류: ':'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(35,2): error C3861: '스피커': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(35,14): error C2143: 구문 오류: ';'이(가) ':' 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(35,14): error C2059: 구문 오류: ':'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(43,2): error C2065: '레드엔티티': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(43,18): error C2146: 구문 오류: ';'이(가) '생성' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(43,18): error C2065: '생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(44,2): error C2065: 'Hp바엔티티생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(45,2): error C2065: 'Mp바엔티티생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(46,2): error C2065: '블루엔티티': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(46,18): error C2146: 구문 오류: ';'이(가) '생성' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(46,18): error C2065: '생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(47,2): error C2065: 'Hp바엔티티생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\다듬기.cpp(48,2): error C2065: 'Mp바엔티티생성': 선언되지 않은 식별자입니다.
+  휴먼.cpp
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(21,7): error C2065: '점프키다운': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(23,12): error C2065: '점프키업': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(25,12): error C2065: '좌키다운': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(30,12): error C2065: '우키다운': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(35,12): error C2065: '좌키업': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(40,12): error C2065: '우키업': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(48,8): error C2065: '점프키다운': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(53,13): error C2065: '좌키다운': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(58,13): error C2065: '우키다운': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(63,13): error C2065: '공격키다운': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(68,13): error C2065: '충전키다운': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(77,8): error C2065: '점프키다운': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(82,13): error C2065: '좌키': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(82,23): error C2065: '우키': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(84,5): error C2065: 'Direction': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(84,27): error C2146: 구문 오류: ';'이(가) '또는' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(84,27): error C2065: '또는': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(84,34): error C2146: 구문 오류: ';'이(가) '유지' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(84,34): error C2065: '유지': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(84,41): error C2146: 구문 오류: ';'이(가) '또는' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(84,41): error C2065: '또는': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(84,48): error C2146: 구문 오류: ';'이(가) 'state' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(86,13): error C2065: '공격키다운': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(95,8): error C2065: '좌키': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(95,18): error C2065: '우키': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(97,5): error C2065: 'Direction': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(97,27): error C2146: 구문 오류: ';'이(가) '또는' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(97,27): error C2065: '또는': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(97,34): error C2146: 구문 오류: ';'이(가) '유지' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(97,34): error C2065: '유지': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(98,4): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(99,13): error C2065: '공격키다운': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(108,8): error C2065: '충전키업': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(114,6): error C2065: '대기': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(114,13): error C2146: 구문 오류: ';'이(가) '이동' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(114,13): error C2065: '이동': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(114,20): error C2146: 구문 오류: ';'이(가) '점프' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(114,20): error C2065: '점프': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(114,27): error C2146: 구문 오류: ';'이(가) '공중으로' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(114,27): error C2065: '공중으로': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(114,40): error C2146: 구문 오류: ';'이(가) '간다' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(114,40): error C2065: '간다': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(115,1): error C2059: 구문 오류: '}'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(116,1): error C2061: 구문 오류: 식별자 '충전용틱이면'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(117,1): error C2181: if와 짝을 이루지 않는 잘못된 else문입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(117,10): error C2065: '틱을': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(117,17): error C2146: 구문 오류: ';'이(가) '한단계' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(117,17): error C2065: '한단계': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(117,27): error C2146: 구문 오류: ';'이(가) '감소시킨다' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(117,27): error C2065: '감소시킨다': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(117,1): error C2059: 구문 오류: ';'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(131,4): error C2065: 'Direction': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(135,4): error C2065: 'Velocity': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(135,19): error C2065: 'Jump': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(141,4): error C2065: 'Direction': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(157,4): error C2065: 'tick에': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(157,12): error C2146: 구문 오류: ';'이(가) '따른' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(157,12): error C2065: '따른': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(157,19): error C2146: 구문 오류: ';'이(가) '출력' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(157,19): error C2065: '출력': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(159,4): error C2065: 'tick이': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(159,12): error C2146: 구문 오류: ';'이(가) '범위를' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(159,12): error C2065: '범위를': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(159,22): error C2146: 구문 오류: ';'이(가) '벗어나면' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(159,22): error C2065: '벗어나면': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(159,35): error C2146: 구문 오류: ';'이(가) 'tick' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(164,4): error C2065: '방향': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(164,12): error C2065: '포지션': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(164,23): error C2065: '이동값으로': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(164,39): error C2146: 구문 오류: ';'이(가) '이동' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(164,39): error C2065: '이동': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(165,4): error C2146: 구문 오류: ';'이(가) 'tick에' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(165,4): error C2065: 'tick에': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(165,12): error C2146: 구문 오류: ';'이(가) '따른' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(165,12): error C2065: '따른': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(165,19): error C2146: 구문 오류: ';'이(가) '출력' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(165,19): error C2065: '출력': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(167,4): error C2065: 'tick이': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(167,12): error C2146: 구문 오류: ';'이(가) '범위를' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(167,12): error C2065: '범위를': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(167,22): error C2146: 구문 오류: ';'이(가) '벗어나면' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(167,22): error C2065: '벗어나면': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(167,35): error C2146: 구문 오류: ';'이(가) 'tick' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(172,4): error C2065: '출력': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(173,4): error C2065: '키': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(173,9): error C2065: '방향': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(173,17): error C2065: '포지션': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(173,28): error C2065: '이동값으로': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(173,44): error C2146: 구문 오류: ';'이(가) '이동' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(173,44): error C2065: '이동': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(174,3): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(178,4): error C2065: 'tick에': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(178,12): error C2146: 구문 오류: ';'이(가) '따른' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(178,12): error C2065: '따른': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(178,19): error C2146: 구문 오류: ';'이(가) '출력' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(178,19): error C2065: '출력': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(178,27): error C2065: '액션': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(180,4): error C2065: 'tick이': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(180,12): error C2146: 구문 오류: ';'이(가) '범위를' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(180,12): error C2065: '범위를': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(180,22): error C2146: 구문 오류: ';'이(가) '벗어나면' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\휴먼.cpp(180,1): fatal error C1003: 오류 수가 100개를 초과했습니다. 컴파일을 중지합니다.
+  서버.cpp
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(3,2): error C2065: '소켓': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(3,9): error C2146: 구문 오류: ';'이(가) '생성' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(3,9): error C2065: '생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(5,2): error C2065: 'a접속': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(6,2): error C2065: 'b접속': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(7,2): error C2065: '식별자': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(7,12): error C2146: 구문 오류: ';'이(가) '부여' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(7,12): error C2065: '부여': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(9,2): error C2065: '게임': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(9,9): error C2146: 구문 오류: ';'이(가) '준비를' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(9,9): error C2065: '준비를': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(9,19): error C2146: 구문 오류: ';'이(가) '위한' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(9,19): error C2065: '위한': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(9,26): error C2146: 구문 오류: ';'이(가) '식별자' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(9,26): error C2065: '식별자': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(9,36): error C2146: 구문 오류: ';'이(가) '전송' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(9,36): error C2065: '전송': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(10,2): error C2065: '게임': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(10,9): error C2146: 구문 오류: ';'이(가) '준비' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(10,9): error C2065: '준비': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(10,17): error C3873: '0x2605': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(10,17): error C2065: '★': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(12,2): error C2065: 'a준비완료': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(13,2): error C2065: 'b준비완료': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(14,9): error C2065: '탈출': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(14,16): error C2146: 구문 오류: ')'이(가) '조건' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(14,22): error C2059: 구문 오류: ')'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(14,16): error C2065: '조건': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(17,3): error C2065: '틱전송': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(17,12): error C2059: 구문 오류: ';'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(18,3): error C2065: '게임': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(18,10): error C2146: 구문 오류: ';'이(가) '업데이트' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(18,10): error C2065: '업데이트': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(18,23): error C3873: '0x2605': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(18,23): error C2065: '★': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(21,3): error C2146: 구문 오류: ';'이(가) '입력변환' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(21,3): error C2065: '입력변환': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(22,3): error C2065: '입력전달': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(23,3): error C2065: '입력적용': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(23,16): error C3873: '0x2605': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(23,16): error C2065: '★': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(24,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(25,1): error C2059: 구문 오류: '}'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\서버.cpp(25,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  클라이언트.cpp
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(3,2): error C2065: '서버에': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(3,12): error C2146: 구문 오류: ';'이(가) '접속' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(3,12): error C2065: '접속': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(4,2): error C2065: '식별자': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(4,12): error C2146: 구문 오류: ';'이(가) '받고' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(4,12): error C2065: '받고': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(4,19): error C2146: 구문 오류: ';'이(가) '게임' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(4,19): error C2065: '게임': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(4,26): error C2146: 구문 오류: ';'이(가) '준비' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(4,26): error C2065: '준비': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(4,34): error C3873: '0x2605': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(4,34): error C2065: '★': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(5,2): error C2065: '게임': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(5,9): error C2146: 구문 오류: ';'이(가) '준비완료' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(5,9): error C2065: '준비완료': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(5,22): error C2146: 구문 오류: ';'이(가) '송신' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(5,22): error C2065: '송신': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(6,2): error C2065: '개시': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(6,9): error C2146: 구문 오류: ';'이(가) '수신' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(6,9): error C2065: '수신': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(7,9): error C2065: '탈출': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(7,16): error C2146: 구문 오류: ')'이(가) '조건' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(7,22): error C2059: 구문 오류: ')'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(7,16): error C2065: '조건': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(10,3): error C2065: '라스트': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(10,13): error C2146: 구문 오류: ')'이(가) '업데이트' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(11,3): error C2065: '게임': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(11,10): error C2146: 구문 오류: ';'이(가) '업데이트' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(11,10): error C2065: '업데이트': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(11,23): error C3873: '0x2605': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(11,23): error C2065: '★': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(13,3): error C2146: 구문 오류: ';'이(가) '입력적용' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(13,3): error C2065: '입력적용': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(13,16): error C3873: '0x2605': 이 문자는 식별자의 첫 문자로 사용할 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(13,16): error C2065: '★': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(16,3): error C2146: 구문 오류: ';'이(가) '입력전송' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(16,3): error C2065: '입력전송': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(19,3): error C2065: '렌더링': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(21,1): error C2059: 구문 오류: '}'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\클라이언트.cpp(21,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+  소스.cpp
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(4,2): error C2065: '월드': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(4,9): error C2146: 구문 오류: ';'이(가) '생성' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(4,9): error C2065: '생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(7,2): error C2065: '탈출조건변수': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(8,2): error C2065: '입력조건변수': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(9,2): error C2065: '최초업데이트여부변수': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(10,2): error C2065: '타이머객체': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(13,2): error C3861: '입력변수점검': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(13,24): error C2059: 구문 오류: '->'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(14,2): error C3861: '넥스트상태전이': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(14,26): error C2059: 구문 오류: '->'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(15,2): error C3861: '이동카운트적재': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(15,26): error C2059: 구문 오류: '->'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(16,2): error C3861: '상태에대응하는액션': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(17,9): error C2065: '외력': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(17,2): error C3861: '중력': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(19,2): error C2065: '위치': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(19,9): error C2146: 구문 오류: ';'이(가) '산정' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(19,9): error C3861: '산정': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(20,2): error C2065: '땅': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(20,6): error C2146: 구문 오류: ';'이(가) '보정' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(20,6): error C3861: '보정': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(20,16): error C2059: 구문 오류: '->'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(22,2): error C2065: '체력': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(22,9): error C2146: 구문 오류: ';'이(가) '산정' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(22,9): error C3861: '산정': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(22,19): error C2059: 구문 오류: '->'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(26,2): error C3861: '카메라시스템': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(26,23): error C2143: 구문 오류: ';'이(가) ':' 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(26,23): error C2059: 구문 오류: ':'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(27,19): error C2065: '입력조건변수': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(27,39): error C2065: '지연카운트': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(27,2): error C3861: '시작시스템': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(27,59): error C2143: 구문 오류: ';'이(가) ':' 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(27,59): error C2059: 구문 오류: ':'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(28,25): error C2065: '입력조건변수': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(28,2): error C3861: '죽음식별시스템': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(28,45): error C2143: 구문 오류: ';'이(가) ':' 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(28,45): error C2059: 구문 오류: ':'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(29,19): error C2065: '탈출조건변수': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(29,2): error C3861: '종료시스템': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(29,39): error C2143: 구문 오류: ';'이(가) ':' 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(29,39): error C2059: 구문 오류: ':'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(31,2): error C3861: 'Mp바시스템': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(31,19): error C2143: 구문 오류: ';'이(가) ':' 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(31,19): error C2059: 구문 오류: ':'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(33,2): error C3861: '비디오': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(33,14): error C2143: 구문 오류: ';'이(가) ':' 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(33,14): error C2059: 구문 오류: ':'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(34,2): error C3861: '오디오': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(34,14): error C2143: 구문 오류: ';'이(가) ':' 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(34,14): error C2059: 구문 오류: ':'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(37,2): error C2065: '레드엔티티': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(37,18): error C2146: 구문 오류: ';'이(가) '생성' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(37,18): error C2065: '생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(38,2): error C2065: 'Hp바엔티티생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(39,2): error C2065: 'Mp바엔티티생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(40,2): error C2065: '블루엔티티': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(40,18): error C2146: 구문 오류: ';'이(가) '생성' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(40,18): error C2065: '생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(41,2): error C2065: 'Hp바엔티티생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(42,2): error C2065: 'Mp바엔티티생성': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(43,2): error C3688: 잘못된 리터럴 접두사 '카운트엔티티생성'입니다. 리터럴 연산자 또는 리터럴 연산자 템플릿 '연산자 ""카운트엔티티생성'을(를) 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(46,10): error C2065: '탈출조건변수': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(48,7): error C2065: '최초업데이트여부변수': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(50,4): error C3861: '게임업데이트': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(51,4): error C3861: '인터페이스업데이트': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(52,4): error C2065: '타이머객체': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(52,20): error C2146: 구문 오류: ';'이(가) '세팅하기' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(52,20): error C2065: '세팅하기': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(55,12): error C2065: '게임타이머': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(57,4): error C3861: '게임업데이트': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(60,12): error C2065: '인터페이스타이머': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(62,4): error C3861: '인터페이스업데이트': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(66,7): error C2065: '입력이': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(66,17): error C2146: 구문 오류: ')'이(가) '있다' 식별자 앞에 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(66,23): error C2059: 구문 오류: ')'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(66,17): error C2065: '있다': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(68,4): error C3861: '입력폴링': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(68,18): error C2059: 구문 오류: ';'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(69,8): error C2065: '파괴입력': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(72,5): error C3861: 'exit': 식별자를 찾을 수 없습니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(74,8): error C2065: '입력조건변수': 선언되지 않은 식별자입니다.
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(81,2): error C2059: 구문 오류: 'return'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(82,1): error C2059: 구문 오류: '}'
+C:\Users\dongh\source\repos\컴포넌트 엔진\main\소스.cpp(82,1): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
